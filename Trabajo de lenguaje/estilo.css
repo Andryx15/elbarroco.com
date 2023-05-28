@@ -1,0 +1,68 @@
+﻿html {
+    font-size: 20px;
+    text-align: justify;
+    background-color: rgb(54, 0, 0);
+}
+
+.text-box {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.text-box2 {
+    width: 1350pt;
+    margin: 0 auto;
+    padding: 20px;
+}
+article {
+    width: 1350pt;
+    margin: 0 auto;
+    padding: 20px;
+}
+nav {
+    background-color: rgb(54, 0, 0);
+    padding: 10px;
+}
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+body {
+    color: #ffffff;
+    background-color: rgb(61, 23, 23);
+    font-family: 'gothic';
+    background-image: url(https://cdn.culturagenial.com/es/imagenes/poemas-del-barroco-og.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+nav{
+    text-align: center
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+h3 {
+    background-color: #730000;
+}
+p {
+    background-color: #6A0017;
+}
+h4 {
+    background-color: #730000;
+    font-size:1.4rem
+}
+h5 {
+    background-color: #360B00;
+    font-size: 1rem;
+}
+footer{
+    text-align: center
+}
+
